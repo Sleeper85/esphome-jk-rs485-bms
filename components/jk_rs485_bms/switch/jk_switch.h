@@ -1,6 +1,6 @@
-// Updated : 2026.11.11
-// Version : 1.2.1
-// GitHub  : https://github.com/Sleeper85/esphome-components
+// Updated : 2026.11.19
+// Version : 1.2.2
+// GitHub  : https://github.com/Sleeper85/esphome-jk-rs485-bms
 
 // This YAML is free software: you can redistribute it and/or
 // modify it under the terms of the GNU General Public License

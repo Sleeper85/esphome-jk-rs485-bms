@@ -1,6 +1,6 @@
-# Updated : 2026.11.11
-# Version : 1.2.0
-# GitHub  : https://github.com/Sleeper85/esphome-components
+# Updated : 2026.11.19
+# Version : 1.2.1
+# GitHub  : https://github.com/Sleeper85/esphome-jk-rs485-bms
 
 import esphome.codegen as cg
 from esphome.components import text_sensor
