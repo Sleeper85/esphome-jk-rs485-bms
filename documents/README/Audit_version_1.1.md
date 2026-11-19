@@ -1,13 +1,13 @@
 # Code audit of version 1.1
 
 [![Badge License: GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Badge Version](https://img.shields.io/github/v/release/Sleeper85/esphome-components?include_prereleases&color=yellow&logo=DocuSign&logoColor=white)](https://github.com/Sleeper85/esphome-components/releases/latest)
-![GitHub stars](https://img.shields.io/github/stars/Sleeper85/esphome-components)
-![GitHub forks](https://img.shields.io/github/forks/Sleeper85/esphome-components)
-![GitHub watchers](https://img.shields.io/github/watchers/Sleeper85/esphome-components)
+[![Badge Version](https://img.shields.io/github/v/release/Sleeper85/esphome-jk-rs485-bms?include_prereleases&color=yellow&logo=DocuSign&logoColor=white)](https://github.com/Sleeper85/esphome-jk-rs485-bms/releases/latest)
+![GitHub stars](https://img.shields.io/github/stars/Sleeper85/esphome-jk-rs485-bms)
+![GitHub forks](https://img.shields.io/github/forks/Sleeper85/esphome-jk-rs485-bms)
+![GitHub watchers](https://img.shields.io/github/watchers/Sleeper85/esphome-jk-rs485-bms)
 
 Audit of the `jk_rs485_sniffer` and `jk_rs485_bms` components as released in
-[1.1](https://github.com/Sleeper85/esphome-components/releases/tag/1.1), with the fixes that
+[1.1](https://github.com/Sleeper85/esphome-jk-rs485-bms/releases/tag/1.1), with the fixes that
 came after that release. Each finding says whether it has been fixed in 1.2 or is still open.
 What changed for users is listed in the [changelog](changelog/Changelog.md).
 

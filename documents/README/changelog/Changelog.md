@@ -1,10 +1,10 @@
 # JK RS485 components changelog
 
 [![Badge License: GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Badge Version](https://img.shields.io/github/v/release/Sleeper85/esphome-components?include_prereleases&color=yellow&logo=DocuSign&logoColor=white)](https://github.com/Sleeper85/esphome-components/releases/latest)
-![GitHub stars](https://img.shields.io/github/stars/Sleeper85/esphome-components)
-![GitHub forks](https://img.shields.io/github/forks/Sleeper85/esphome-components)
-![GitHub watchers](https://img.shields.io/github/watchers/Sleeper85/esphome-components)
+[![Badge Version](https://img.shields.io/github/v/release/Sleeper85/esphome-jk-rs485-bms?include_prereleases&color=yellow&logo=DocuSign&logoColor=white)](https://github.com/Sleeper85/esphome-jk-rs485-bms/releases/latest)
+![GitHub stars](https://img.shields.io/github/stars/Sleeper85/esphome-jk-rs485-bms)
+![GitHub forks](https://img.shields.io/github/forks/Sleeper85/esphome-jk-rs485-bms)
+![GitHub watchers](https://img.shields.io/github/watchers/Sleeper85/esphome-jk-rs485-bms)
 
 Changes to the `jk_rs485_sniffer` and `jk_rs485_bms` ESPHome components. Each file carries its own version in its header ; the release number below is the version of the components as a whole.
 
@@ -49,7 +49,7 @@ Changes to the `jk_rs485_sniffer` and `jk_rs485_bms` ESPHome components. Each fi
   * Code cleanup : removed the dead code inherited from the JK-BMS BLE / UART components, the commented-out code and the protocol version handling ; all code comments are now in English
 
 * JK RS485 1.1 :
-  * First tagged release, it marks the state of the 1.1.x line before the 1.2 fixes : `github://Sleeper85/esphome-components@1.1`
+  * First tagged release, it marks the state of the 1.1.x line before the 1.2 fixes : `github://Sleeper85/esphome-jk-rs485-bms@1.1`
   * Fixed the 32-bit `errors_bitmask`
   * Fixed a `device_class` warning
   * Fixed the `*.*_SCHEMA` deprecations for recent ESPHome versions
