@@ -9,6 +9,7 @@
 Changes to the `jk_rs485_sniffer` and `jk_rs485_bms` ESPHome components. Each file carries its own version in its header ; the release number below is the version of the components as a whole.
 
 * JK RS485 1.2 :
+  * Repository renamed from `esphome-components` to `esphome-jk-rs485-bms` : use `github://Sleeper85/esphome-jk-rs485-bms` in `external_components`. The old address still redirects, so existing YAML keeps working, and YamBMS already uses the new one
   * New documentation :
     * Jikong register map : [Jikong BMS RS485 modbus protocol V1.1.pdf](../../RS485/Jikong%20BMS%20RS485%20modbus%20protocol%20V1.1.pdf)
     * [Code audit of version 1.1](../Audit_version_1.1.md) : every defect found in 1.1, how it was fixed in 1.2 (with the commit), what was confirmed on a bench, and what is still open
